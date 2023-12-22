@@ -7,10 +7,8 @@ public class Rectangle extends Shape {
         this.height = height;
     }
 
-    // Überschreibt die Methode, aber verletzt LSP
     @Override
     void calculateArea(int side) {
-        // Berechnet die Fläche eines Rechtecks
         System.out.println("Fläche des Rechtecks: " + width * height);
     }
 }
