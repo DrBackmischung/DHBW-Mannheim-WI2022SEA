@@ -8,3 +8,4 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 
 ## Vorlesung 1: Einführung
 - [THERAC-25](https://www.youtube.com/watch?v=Ap0orGCiou8&ab_channel=KyleHill)
+- [GitHub Repository für Projekte](https://github.com/DrBackmischung/DHBW-Mannheim-WI2022SEA-Exam)
