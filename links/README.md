@@ -13,6 +13,10 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 - [Video: THERAC-25](https://www.youtube.com/watch?v=Ap0orGCiou8&ab_channel=KyleHill)
 - [GitHub Repository für Projekte](https://github.com/DrBackmischung/DHBW-Mannheim-WI2022SEA-Exam)
 
+## Vorlesung 2: Definitionsphase
+
+## Vorlesung 3: Designphase
+
 ## Vorlesung 4: Crash-Kurs
 ### Full-Stack: ABAP & SAP UI5
 - [Setup BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
@@ -46,3 +50,11 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 ### Datenbank: MongoDB
 
 ### Datenbank: Redis
+
+## Vorlesung 5: Implementierungsphase
+
+## Vorlesung 6: Testphase
+
+## Vorlesung 7a: Wartungsphase
+
+## Vorlesung 7b: Abnahmephase
