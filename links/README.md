@@ -30,28 +30,82 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 - [ABAP BTP Software Lifecycle Management](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/automate-software-lifecycle-management-process)
 
 </details>
-### Full-Stack: Next.js
 
-### Backend: Java & SpringBoot
+<details><summary>Full-Stack: Next.js</summary>
+
+- ...
+- ...
+
+</details>
+
+<details><summary>Backend: Java & SpringBoot</summary>
+
 - [Spring Konfigurator](https://start.spring.io/)
 
-### Backend: JavaScript & Express
+</details>
 
-### Backend: Go & GinGonic
+<details><summary>Backend: JavaScript & Express</summary>
 
-### Backend: Sonstiges
+- ...
+- ...
 
-### Frontend: JavaScript/TypeScript & React
+</details>
 
-### Frontend: JavaScript/TypeScript & Angular
+<details><summary>Backend: Go & GinGonic</summary>
 
-### Frontend: JavaScript/TypeScript & React Native (Mobile)
+- ...
+- ...
 
-### Frontend: Dart & Flutter
+</details>
 
-### Datenbank: MongoDB
+<details><summary>Backend: Sonstiges</summary>
 
-### Datenbank: Redis
+- ...
+- ...
+
+</details>
+
+<details><summary>Frontend: JavaScript/TypeScript & React</summary>
+
+- ...
+- ...
+
+</details>
+
+<details><summary>Frontend: JavaScript/TypeScript & Angular</summary>
+
+- ...
+- ...
+
+</details>
+
+<details><summary>Frontend: JavaScript/TypeScript & React Native (Mobile)</summary>
+
+- ...
+- ...
+
+</details>
+
+<details><summary>Frontend: Dart & Flutter</summary>
+
+- ...
+- ...
+
+</details>
+
+<details><summary>Datenbank: MongoDB</summary>
+
+- ...
+- ...
+
+</details>
+
+<details><summary>Datenbank: Redis</summary>
+
+- ...
+- ...
+
+</details>
 
 ## Vorlesung 5: Implementierungsphase
 - [Code Smells](https://refactoring.guru/refactoring/smells)
