@@ -27,6 +27,7 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 ### Full-Stack: Next.js
 
 ### Backend: Java & SpringBoot
+- [Spring Konfigurator](https://start.spring.io/)
 
 ### Backend: JavaScript & Express
 
