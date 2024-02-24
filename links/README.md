@@ -16,6 +16,7 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 ## Vorlesung 2: Definitionsphase
 
 ## Vorlesung 3: Designphase
+- [Design Patterns](https://refactoring.guru/design-patterns)
 
 ## Vorlesung 4: Crash-Kurs
 <details><summary>Full-Stack: ABAP & SAP UI5</summary>
