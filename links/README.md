@@ -18,7 +18,7 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 ## Vorlesung 3: Designphase
 
 ## Vorlesung 4: Crash-Kurs
-### Full-Stack: ABAP & SAP UI5
+<details><summary>Full-Stack: ABAP & SAP UI5</summary>
 - [Setup BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 - [Setup BTP Trial ABAP Environment](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
 - [ABAP RAP](https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/289477a81eec4d4e84c0302fb6835035.html)
@@ -27,7 +27,7 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 - [ABAP BTP CI/CD](https://community.sap.com/t5/technology-q-a/ci-cd-with-abap-environment/qaq-p/12744466)
 - [ABAP BTP CI/CD Tutorial](https://community.sap.com/t5/technology-blogs-by-sap/ci-cd-tools-for-sap-btp-abap-environment/ba-p/13491022)
 - [ABAP BTP Software Lifecycle Management](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/automate-software-lifecycle-management-process)
-
+</details>
 ### Full-Stack: Next.js
 
 ### Backend: Java & SpringBoot
@@ -52,6 +52,8 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 ### Datenbank: Redis
 
 ## Vorlesung 5: Implementierungsphase
+- [Code Smells](https://refactoring.guru/refactoring/smells)
+- [Clean Code](https://refactoring.guru/refactoring/what-is-refactoring)
 
 ## Vorlesung 6: Testphase
 
