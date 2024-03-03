@@ -118,6 +118,13 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 
 </details>
 
+<details><summary>Sonstiges: Git & Github</summary>
+
+- ...
+- ...
+
+</details>
+
 ## Vorlesung 5: Implementierungsphase
 - [Code Smells](https://refactoring.guru/refactoring/smells)
 - [Clean Code](https://refactoring.guru/refactoring/what-is-refactoring)
