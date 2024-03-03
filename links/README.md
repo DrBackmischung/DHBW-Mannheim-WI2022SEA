@@ -17,6 +17,7 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 ## Vorlesung 2: Definitionsphase
 - [Mural](https://app.mural.co/)
 - [Miro](https://miro.com/app)
+- [Video: Requirements Engineering](https://www.youtube.com/watch?v=w21HJ9aTaTs&ab_channel=ProgrammierenStarten)
 - [DSGVO: Artikel 4](https://dsgvo-gesetz.de/art-4-dsgvo/)
 - [DSGVO: Artikel 5](https://dsgvo-gesetz.de/art-5-dsgvo/)
 - [DSGVO: Artikel 6](https://dsgvo-gesetz.de/art-6-dsgvo/)
