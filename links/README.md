@@ -14,6 +14,14 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 - [GitHub Repository für Projekte](https://github.com/DrBackmischung/DHBW-Mannheim-WI2022SEA-Exam)
 
 ## Vorlesung 2: Definitionsphase
+- [Mural](https://app.mural.co/)
+- [Miro](https://miro.com/app)
+- [DSGVO: Artikel 4](https://dsgvo-gesetz.de/art-4-dsgvo/)
+- [DSGVO: Artikel 5](https://dsgvo-gesetz.de/art-5-dsgvo/)
+- [DSGVO: Artikel 6](https://dsgvo-gesetz.de/art-6-dsgvo/)
+- [DSGVO: Artikel 7](https://dsgvo-gesetz.de/art-7-dsgvo/)
+- [DSGVO: Artikel 13](https://dsgvo-gesetz.de/art-13-dsgvo/)
+- [DSGVO: Artikel 14](https://dsgvo-gesetz.de/art-14-dsgvo/)
 
 ## Vorlesung 3: Designphase
 - [Design Patterns](https://refactoring.guru/design-patterns)
