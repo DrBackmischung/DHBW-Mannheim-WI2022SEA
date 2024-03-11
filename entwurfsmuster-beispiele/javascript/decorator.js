@@ -47,3 +47,7 @@ class Coffee {
   
   console.log(milkCoffee.description(), 'Cost:', milkCoffee.cost());
   
+  const milkCoffee2 = new MilkDecorator(milkCoffee);
+  
+  console.log(milkCoffee2.description(), 'Cost:', milkCoffee2.cost());
+  
