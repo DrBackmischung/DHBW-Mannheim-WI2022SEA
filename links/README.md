@@ -27,6 +27,9 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 
 ## Vorlesung 3: Designphase
 - [Design Patterns](https://refactoring.guru/design-patterns)
+- [Draw.io](https://app.diagrams.net/)
+- [Video: MongoDB](https://www.youtube.com/watch?v=-bt_y4Loofg&ab_channel=Fireship)
+- [Video: Redis](https://www.youtube.com/watch?v=G1rOthIU-uo&t=6s&ab_channel=Fireship)
 
 ## Vorlesung 4: Crash-Kurs
 <details><summary>Full-Stack: ABAP & SAP UI5</summary>
