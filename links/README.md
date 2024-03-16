@@ -4,7 +4,7 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 ## Feedback zu den Vorlesungen
 - [Einstiegsvorlesung](https://docs.google.com/forms/d/e/1FAIpQLSe7yPxusNgcJmvUScwGuXIYBW3LjZL_WMdPMjFG-ASK9CJtUA/viewform?usp=sf_link)
 - [Definitionsphase](https://docs.google.com/forms/d/e/1FAIpQLSdXnEkJ_UrlZ9RPkOneGllKHEE0-0J8_uCdFlYX1KicygY3Zw/viewform?usp=sf_link)
-
+- [Designphase](https://docs.google.com/forms/d/e/1FAIpQLSfk7s2ijbuelrozbEbi8DfaOU1Gyk6ugDO5hxUJIQVkwBSMGA/viewform?usp=sf_link)
 ## Feedback zu den Prüfungsaufgaben
 
 ## Vorlesung 1: Einführung
@@ -27,6 +27,9 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 
 ## Vorlesung 3: Designphase
 - [Design Patterns](https://refactoring.guru/design-patterns)
+- [Draw.io](https://app.diagrams.net/)
+- [Video: MongoDB](https://www.youtube.com/watch?v=-bt_y4Loofg&ab_channel=Fireship)
+- [Video: Redis](https://www.youtube.com/watch?v=G1rOthIU-uo&t=6s&ab_channel=Fireship)
 
 ## Vorlesung 4: Crash-Kurs
 <details><summary>Full-Stack: ABAP & SAP UI5</summary>
