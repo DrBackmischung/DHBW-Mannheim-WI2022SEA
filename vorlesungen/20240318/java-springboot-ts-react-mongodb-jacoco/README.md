@@ -5,6 +5,6 @@ Backend: Java / SpringBoot
 
 Frontend: TypeScript / React
 
-Datenbank: MongoDB (H2 für Tests)
+Datenbank: MongoDB
 
 Test-Framework: SpringBoot & JaCoCo

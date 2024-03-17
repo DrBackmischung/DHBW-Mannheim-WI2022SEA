@@ -1,4 +1,6 @@
-# Nachhilfe-LogService
-SE III: LogService mit SpringBoot und ELK
+# Demo #3
+Anwendung zum Loggen.
 
-Port: 5007
+Backend: Java / SpringBoot
+
+Datenbank: redis
