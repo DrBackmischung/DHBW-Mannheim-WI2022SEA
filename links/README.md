@@ -5,7 +5,10 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 - [Einstiegsvorlesung](https://docs.google.com/forms/d/e/1FAIpQLSe7yPxusNgcJmvUScwGuXIYBW3LjZL_WMdPMjFG-ASK9CJtUA/viewform?usp=sf_link)
 - [Definitionsphase](https://docs.google.com/forms/d/e/1FAIpQLSdXnEkJ_UrlZ9RPkOneGllKHEE0-0J8_uCdFlYX1KicygY3Zw/viewform?usp=sf_link)
 - [Designphase](https://docs.google.com/forms/d/e/1FAIpQLSfk7s2ijbuelrozbEbi8DfaOU1Gyk6ugDO5hxUJIQVkwBSMGA/viewform?usp=sf_link)
+- [Praxisvorlesung](https://docs.google.com/forms/d/e/1FAIpQLSdpgEVRh309J4S_HQSl28hJCfI_s_rlSTIfzc3jyBGuBqPU0A/viewform?usp=sf_link)
+  
 ## Feedback zu den Prüfungsaufgaben
+- [Abgabe #1](https://docs.google.com/forms/d/e/1FAIpQLSe20KTEiS8MrsnF_f8y_wVraeoLdhJIXhRMgTgyyspLRMOKgA/viewform?usp=sf_link)
 
 ## Vorlesung 1: Einführung
 - [Video: Assembly](https://www.youtube.com/watch?v=4gwYkEK0gOk&ab_channel=Fireship)
