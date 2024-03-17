@@ -1,4 +1,4 @@
-# Demo #3
+# Demo #2
 Anwendung für einen Getränke-Shop.
 
 Backend: ABAP / RAP
