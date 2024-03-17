@@ -32,8 +32,15 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 - [Video: Redis](https://www.youtube.com/watch?v=G1rOthIU-uo&t=6s&ab_channel=Fireship)
 
 ## Vorlesung 4: Crash-Kurs
-<details><summary>Full-Stack: ABAP & SAP UI5</summary>
-  
+- [Video: Svelte Kit](https://www.youtube.com/watch?v=H1eEFfAkIik&ab_channel=Fireship)
+- [Video: React Native](https://www.youtube.com/watch?v=gvkqT_Uoahw&ab_channel=Fireship)
+- [Video: React](https://www.youtube.com/watch?v=Tn6-PIqc4UM&ab_channel=Fireship)
+- [Video: Angular](https://www.youtube.com/watch?v=Ata9cSC2WpM&ab_channel=Fireship)
+- [Video: Nest.js](https://www.youtube.com/watch?v=0M8AYU_hPas&ab_channel=Fireship)
+- [Video: Vue.js](https://www.youtube.com/watch?v=dCxSsr5xuL8&ab_channel=Fireship)
+- [Video: 1 app in 10 languages](https://www.youtube.com/watch?v=FQPlEnKav48&ab_channel=Fireship)
+- [Video: React vs. Svelte](https://www.youtube.com/watch?v=MnpuK0MK4yo&ab_channel=BeyondFireship)
+- [Spring Konfigurator](https://start.spring.io/)
 - [Setup BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 - [Setup BTP Trial ABAP Environment](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
 - [ABAP RAP](https://help.sap.com/docs/ABAP_PLATFORM_NEW/fc4c71aa50014fd1b43721701471913d/289477a81eec4d4e84c0302fb6835035.html)
@@ -43,91 +50,7 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 - [ABAP BTP CI/CD](https://community.sap.com/t5/technology-q-a/ci-cd-with-abap-environment/qaq-p/12744466)
 - [ABAP BTP CI/CD Tutorial](https://community.sap.com/t5/technology-blogs-by-sap/ci-cd-tools-for-sap-btp-abap-environment/ba-p/13491022)
 - [ABAP BTP Software Lifecycle Management](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/automate-software-lifecycle-management-process)
-
-</details>
-
-<details><summary>Full-Stack: Next.js</summary>
-
-- ...
-- ...
-
-</details>
-
-<details><summary>Backend: Java & SpringBoot</summary>
-
-- [Spring Konfigurator](https://start.spring.io/)
-
-</details>
-
-<details><summary>Backend: JavaScript & Express</summary>
-
-- ...
-- ...
-
-</details>
-
-<details><summary>Backend: Go & GinGonic</summary>
-
-- ...
-- ...
-
-</details>
-
-<details><summary>Backend: Sonstiges</summary>
-
-- ...
-- ...
-
-</details>
-
-<details><summary>Frontend: JavaScript/TypeScript & React</summary>
-
-- ...
-- ...
-
-</details>
-
-<details><summary>Frontend: JavaScript/TypeScript & Angular</summary>
-
-- ...
-- ...
-
-</details>
-
-<details><summary>Frontend: JavaScript/TypeScript & React Native (Mobile)</summary>
-
-- ...
-- ...
-
-</details>
-
-<details><summary>Frontend: Dart & Flutter</summary>
-
-- ...
-- ...
-
-</details>
-
-<details><summary>Datenbank: MongoDB</summary>
-
-- ...
-- ...
-
-</details>
-
-<details><summary>Datenbank: Redis</summary>
-
-- ...
-- ...
-
-</details>
-
-<details><summary>Sonstiges: Git & Github</summary>
-
-- ...
-- ...
-
-</details>
+- [Video: Is redis the only database you need?](https://www.youtube.com/watch?v=DOIWQddRD5M&ab_channel=Fireship)
 
 ## Vorlesung 5: Implementierungsphase
 - [Code Smells](https://refactoring.guru/refactoring/smells)
