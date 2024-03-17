@@ -31,21 +31,4 @@ public class SimpleMongoConfig {
         return new MongoTemplate(mongo(), "test");
     }
     
-//    @Bean
-//    public UuidIdentifiedEntityEventListener uuidIdentifiedEntityEventListener() {
-//        return new UuidIdentifiedEntityEventListener();
-//    }
-    
-//    @Bean
-//    public BeforeConvertCallback<UuidIdentifiedEntity> beforeSaveCallback() {
-//        
-//        return (entity, collection) -> {
-//              
-//            if (entity.getId() == null) {
-//                entity.setId(UUID.randomUUID());
-//            }
-//            return entity;
-//        };
-//    }
-    
 }
