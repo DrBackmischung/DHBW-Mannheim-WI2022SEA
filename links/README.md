@@ -44,6 +44,7 @@ Hier sind alle Links zu Artikeln/Videos, die in der Vorlesung gezeigt werden, au
 - [Video: 1 app in 10 languages](https://www.youtube.com/watch?v=FQPlEnKav48&ab_channel=Fireship)
 - [Video: React vs. Svelte](https://www.youtube.com/watch?v=MnpuK0MK4yo&ab_channel=BeyondFireship)
 - [Spring Konfigurator](https://start.spring.io/)
+- [Besserer Konfigurator](https://bootify.io/app/XWY2TBOGWDE9)
 - [MongoDB](https://cloud.mongodb.com/)
 - [Setup BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 - [Setup BTP Trial ABAP Environment](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
